@@ -1,4 +1,4 @@
-### Projeto guidado do site [https://realpython.com/build-a-blog-from-scratch-django/](Real Python)
+### Projeto guidado do site [Real Python](https://realpython.com/build-a-blog-from-scratch-django/)
 
 Neste tutorial, você aprendemos como:
 
