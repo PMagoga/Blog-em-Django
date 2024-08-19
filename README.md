@@ -1,6 +1,6 @@
 ### Projeto guidado do site [Real Python](https://realpython.com/build-a-blog-from-scratch-django/)
 
-Neste tutorial, você aprendemos como:
+Neste tutorial, aprendemos como:
 
 * Configurar um novo projeto Django
 * Crie e edite postagens de blog
