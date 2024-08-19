@@ -8,4 +8,4 @@ Neste tutorial, aprendemos como:
 * Atribuir categorias às postagens
 * Permitir que os usuários comentem as postagens
   
-Além disso, você aprendemos sobre o site de administração do Django e usou formulários do Django para interagir com os usuários.
+Além disso, aprendemos sobre o site de administração do Django e usou formulários do Django para interagir com os usuários.
